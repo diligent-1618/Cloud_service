@@ -1,5 +1,5 @@
 dependencies:
-  - python=3
+  - python=3.6.0
   - pip:
     - spacy
     - ipykernel
@@ -12,3 +12,6 @@ dependencies:
     - geatpy
     - seaborn
     - tensorflow
+    - pyecharts
+    - beautifulsoup4
+    - requests
