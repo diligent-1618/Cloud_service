@@ -15,3 +15,4 @@ dependencies:
     - pyecharts
     - beautifulsoup4
     - requests
+    - ortools==7.5.7466
